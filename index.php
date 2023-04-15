@@ -7,6 +7,8 @@
 echo "<h1>This App is created using Azure Web app service!!</h1>";
 
 ?>
+  
+    <a href="about.php">About US</a>
 
 </body>
 </html>
